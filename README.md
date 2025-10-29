@@ -3,6 +3,7 @@
 👤 **Dibuat oleh:**
 **Nama:** Marcellus Geraldio Florenta  
 **NIM:** 2702262816  
+BINUS University
 
 🏷️ **Deskripsi Singkat:**
 Program ini dirancang untuk membantu pengguna mengelola data rumah dari file CSV dengan mudah.
